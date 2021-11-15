@@ -8,3 +8,5 @@ language = 'en'
 
 
 audio = gTTS(text=text, lang=language, slow=False)
+
+audio.save("audio.wav")
