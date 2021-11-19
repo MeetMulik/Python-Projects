@@ -1,7 +1,7 @@
 
 # QR Code Generator
 
-This project helps generate QR Codes
+This project helps generate QR Codes.
 
 
 ## Installation
