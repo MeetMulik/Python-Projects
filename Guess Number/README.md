@@ -1,5 +1,5 @@
 # Guess Number
-This project makes use of an inbuilt python module called random
+This project makes use of an inbuilt python module called random.
 
 
 ## Installation
